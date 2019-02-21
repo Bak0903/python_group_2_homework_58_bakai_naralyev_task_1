@@ -1,0 +1,25 @@
+.movie {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.delete_button {
+    font-size: 17px;
+    margin-top: 20px;
+    padding: 5px;
+    color: rgba(0,0,0,.6);
+    background: #6e6e6e;
+    text-shadow: 3px 2px 3px rgba(255,255,255,.2);
+    border-radius: 5px;
+    width: 124px;
+}
+
+.movie_change {
+    margin-top: 2px;
+    font-size: 17px;
+    padding: 5px;
+    text-shadow: 0 0 10px #FFFFFF;
+    border-radius: 5px;
+    width: 456px;
+}

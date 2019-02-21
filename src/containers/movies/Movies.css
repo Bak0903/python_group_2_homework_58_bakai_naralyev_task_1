@@ -1,0 +1,14 @@
+.Movies{
+  width: 650px;
+  margin: 60px auto;
+}
+
+.add_form {
+    padding: 10px;
+    background: darkgoldenrod;
+}
+
+.List_of_movies{
+  padding: 10px;
+  background: darkblue;
+}
